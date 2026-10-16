@@ -39,19 +39,14 @@ Plataforma **SaaS offline-first** de captura de datos operacionales para la indu
 
 El código del proyecto **no se encuentra en este repositorio** (aquí solo hay documentos). Para ejecutarlo:
 
-```bash
+```sh
 git clone https://github.com/danielandresavilaj-cell/terreno-conectado.git
 cd terreno-conectado
-
-pnpm install                                          # instala los workspaces
-docker compose -f infra/docker-compose.yml up -d      # PostgreSQL 16
-
-pnpm --filter backend start:dev                       # NestJS  -> :3000
-pnpm --filter frontend dev                            # Vite    -> :5173
-
-pnpm seed:demo                                        # tenants de prueba (FR-006)
-pnpm test                                             # unit + integración
+npm ci
 ```
+
+Configurar `.env` local desde su plantilla, levantar PostgreSQL, migrar y sembrar según la [guía de aplicación de Fase 2](Fase%202/Evidencias%20Proyecto/Sistema/Aplicacion/README.md). El código usa npm workspaces. La demo ya está publicada: https://terreno-conectado-demo.duckdns.org/
+
 
 | Servicio | URL |
 | :--- | :--- |
@@ -80,7 +75,7 @@ spec → plan → tasks → código → tests → evidencia
 - Cada ciclo cierra con revisión conjunta del avance y ajuste de las tareas siguientes.
 - Specs en **español**; código, tests, commits y CI en **inglés**.
 - Tablero compartido con Definition of Ready / Definition of Done, límite de WIP y trazabilidad commit → issue.
-- Multi-tenant con aislamiento a nivel de motor y presupuesto objetivo de ~US$5/mes.
+- Multi-tenant con aislamiento a nivel de motor y presupuesto objetivo de US$0 dentro de Oracle Always Free.
 
 ## 7. Arquitectura de la solución
 
@@ -101,7 +96,7 @@ flowchart LR
     API --> RLS --> PG
   end
 
-  DASH["Dashboard del supervisor<br/>visible en 60 s o menos"]
+  DASH["Dashboard del supervisor<br/>consulta y revisión por trabajador"]
 
   DEX -->|"al recuperar señal"| API
   PG --> DASH
@@ -132,11 +127,12 @@ Capstone/
 │   └── Evidencias Individuales/
 │       ├── Daniel_Avila/    → 1.1, 1.2, 1.3
 │       └── Raul_Gonzalez/  → 1.1, 1.2, 1.3
-└── Fase 2/  ← PENDIENTE (plantillas oficiales en blanco)
+└── Fase 2/  ← EVIDENCIAS COMPLETADAS AL CORTE 16-10-2026
     ├── Evidencias Grupales/            → 2.4, 2.6
     ├── Evidencias Individuales/        → 2.1 por integrante
     ├── Evidencias Proyecto (version Agil)/   → Product Vision, Backlog, DoD, Diseño
-    └── Evidencias Proyecto (version Cascada)/ → Requerimientos, Diseño
+    ├── Evidencias Proyecto/ → Presentación, documentación y sistema
+    └── Evidencias Proyecto (version Cascada)/ → Referencias no aplicables
 ```
 
 ### Qué contiene cada evidencia
@@ -151,7 +147,7 @@ Capstone/
 | `Informe_Definicion_Proyecto_APT_Fase1` | Informe de fase 1 con abstract, resumen, fundamentación, objetivos, metodología, evidencias, plan de trabajo y Carta Gantt. |
 | `PLANILLA DE EVALUACIÓN FASE 1` | Planilla de evaluación grupal e individual. |
 
-Los documentos de Fase 2 son las **plantillas oficiales de la asignatura**, aún sin completar: se llenarán a medida que avance el desarrollo del proyecto.
+La entrega de Fase 2 completa las guías oficiales y los documentos ágiles e incorpora evidencia de aplicación y base de datos. Consultar el [índice de Fase 2](Fase%202/README.md) para resultados, aportes y pendientes de aceptación. Los diarios y conclusiones son borradores para revisión personal antes de entrega.
 
 ## Enlaces
 

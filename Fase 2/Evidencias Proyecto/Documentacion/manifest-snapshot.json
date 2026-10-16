@@ -1,0 +1,113 @@
+{
+  "cutoff": "2026-10-16",
+  "release": "8185fd75c143a8d414c179a051e75d1e7b348e32",
+  "files": [
+    {
+      "file": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/constitution.md",
+      "source": "https://github.com/danielandresavilaj-cell/terreno-conectado/blob/8185fd75c143a8d414c179a051e75d1e7b348e32/constitution.md",
+      "sha256": "3cafde6b626cd838ece43aa4cb9dfb5867658e7aa09d24a962dc88223f410100"
+    },
+    {
+      "file": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/CONTRIBUTING.md",
+      "source": "https://github.com/danielandresavilaj-cell/terreno-conectado/blob/8185fd75c143a8d414c179a051e75d1e7b348e32/CONTRIBUTING.md",
+      "sha256": "1a6b797125cbffa4de090222913d1bdf0f72b8666df2c42ff1d936f45ae0f953"
+    },
+    {
+      "file": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/data-model.md",
+      "source": "https://github.com/danielandresavilaj-cell/terreno-conectado/blob/8185fd75c143a8d414c179a051e75d1e7b348e32/data-model.md",
+      "sha256": "565ad3601d74a50670e80891931402b65e2bac5fb0950976c03d839440da46e2"
+    },
+    {
+      "file": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/test-plan.md",
+      "source": "https://github.com/danielandresavilaj-cell/terreno-conectado/blob/8185fd75c143a8d414c179a051e75d1e7b348e32/test-plan.md",
+      "sha256": "4921179097cbdab1f6b874cae1a7193bfc59ef91aa2c1d2c6daf9ccea9d4c654"
+    },
+    {
+      "file": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/research.md",
+      "source": "https://github.com/danielandresavilaj-cell/terreno-conectado/blob/8185fd75c143a8d414c179a051e75d1e7b348e32/research.md",
+      "sha256": "cd0bace92fe2647dbfe3ab6c8e666c593d83e121efe19aab9ed21b5efeee46ab"
+    },
+    {
+      "file": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/specs/000-master/spec.md",
+      "source": "https://github.com/danielandresavilaj-cell/terreno-conectado/blob/8185fd75c143a8d414c179a051e75d1e7b348e32/specs/000-master/spec.md",
+      "sha256": "394513a8fe06ea66c84ab95b96fca585c4f6288fb1f58f7a71eb55d22c5c9049"
+    },
+    {
+      "file": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/adr/002-arquitectura-despliegue.md",
+      "source": "https://github.com/danielandresavilaj-cell/terreno-conectado/blob/8185fd75c143a8d414c179a051e75d1e7b348e32/adr/002-arquitectura-despliegue.md",
+      "sha256": "f0b8788bf12f4d03672bfc87e6388fe2c957543c037f890072097e431e85ae59"
+    },
+    {
+      "file": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/adr/003-formularios-dinamicos.md",
+      "source": "https://github.com/danielandresavilaj-cell/terreno-conectado/blob/8185fd75c143a8d414c179a051e75d1e7b348e32/adr/003-formularios-dinamicos.md",
+      "sha256": "2bc700a79cfad11ef9106361b1059d8b10160ae30a1476b689463c591c98dc21"
+    },
+    {
+      "file": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/docs/informe-pruebas-validacion.md",
+      "source": "https://github.com/danielandresavilaj-cell/terreno-conectado/blob/8185fd75c143a8d414c179a051e75d1e7b348e32/docs/informe-pruebas-validacion.md",
+      "sha256": "4231a6a3fc7b060db564f091e939c5033f8d9affb47ddb090273dd5bdca637e3"
+    },
+    {
+      "file": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/docs/checklist-validacion-manual.md",
+      "source": "https://github.com/danielandresavilaj-cell/terreno-conectado/blob/8185fd75c143a8d414c179a051e75d1e7b348e32/docs/checklist-validacion-manual.md",
+      "sha256": "59660a4ad0a7e17d6a112cb2f613a610792ee6b23980b5357cdb9a6d50077037"
+    },
+    {
+      "file": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/infra/ORACLE-FREE.md",
+      "source": "https://github.com/danielandresavilaj-cell/terreno-conectado/blob/8185fd75c143a8d414c179a051e75d1e7b348e32/infra/ORACLE-FREE.md",
+      "sha256": "096422443ffb39b017b39c35422b1ace0defb408405551d915b8dcd59fa04049"
+    },
+    {
+      "file": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/infra/docker-compose.prod.yml",
+      "source": "https://github.com/danielandresavilaj-cell/terreno-conectado/blob/8185fd75c143a8d414c179a051e75d1e7b348e32/infra/docker-compose.prod.yml",
+      "sha256": "aceaf2ea81e98f78e0d2b481879a481d1cd07468ae6e3fc061f6f059d0f6633c"
+    },
+    {
+      "file": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/infra/Caddyfile",
+      "source": "https://github.com/danielandresavilaj-cell/terreno-conectado/blob/8185fd75c143a8d414c179a051e75d1e7b348e32/infra/Caddyfile",
+      "sha256": "323aff0cf5c54a5c8c0ec126aa90dae486702bd30399bee2e50d2bf62828dcd2"
+    },
+    {
+      "file": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/infra/tools/ops.mjs",
+      "source": "https://github.com/danielandresavilaj-cell/terreno-conectado/blob/8185fd75c143a8d414c179a051e75d1e7b348e32/infra/tools/ops.mjs",
+      "sha256": "27b84698b1e2012bc456b1026a8a4c781e38466366e5b4aa49ab09c998a34094"
+    },
+    {
+      "file": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/infra/tools/config.mjs",
+      "source": "https://github.com/danielandresavilaj-cell/terreno-conectado/blob/8185fd75c143a8d414c179a051e75d1e7b348e32/infra/tools/config.mjs",
+      "sha256": "608ae5fcdad8ce112a578f01a9f31dc3fc5616f446796479233131263f0f13c3"
+    },
+    {
+      "file": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/infra/tools/check-backup.mjs",
+      "source": "https://github.com/danielandresavilaj-cell/terreno-conectado/blob/8185fd75c143a8d414c179a051e75d1e7b348e32/infra/tools/check-backup.mjs",
+      "sha256": "73143840ef9d60267afb6400d8b78cab4bf0e88870e449dc3f334224c22993f5"
+    },
+    {
+      "file": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/.github/workflows/deploy.yml",
+      "source": "https://github.com/danielandresavilaj-cell/terreno-conectado/blob/8185fd75c143a8d414c179a051e75d1e7b348e32/.github/workflows/deploy.yml",
+      "sha256": "857c150d074b1fa6df904de76692aac362965c500a16c8b06d81654810e447c6"
+    },
+    {
+      "file": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/.github/workflows/e2e.yml",
+      "source": "https://github.com/danielandresavilaj-cell/terreno-conectado/blob/8185fd75c143a8d414c179a051e75d1e7b348e32/.github/workflows/e2e.yml",
+      "sha256": "d690590e80f325f74d9375eb86adafb08041dae3408bbb030527660d052274d0"
+    },
+    {
+      "file": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/.github/workflows/demo-health.yml",
+      "source": "https://github.com/danielandresavilaj-cell/terreno-conectado/blob/8185fd75c143a8d414c179a051e75d1e7b348e32/.github/workflows/demo-health.yml",
+      "sha256": "a08217a2759df36c1f5de3a5e0df9f6bee32740a38c965fc6d28ebf83843ae93"
+    },
+    {
+      "file": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/adr/001-stack-y-multitenant.md",
+      "source": "https://github.com/danielandresavilaj-cell/terreno-conectado/blob/8185fd75c143a8d414c179a051e75d1e7b348e32/adr/001-stack-y-multitenant.md",
+      "sha256": "7fea0348a88554b12582812e218a54824819b7a6e3abe9993f2a9920a972eadd"
+    },
+    {
+      "file": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/adr/004-endurecimiento-dependencias.md",
+      "source": "https://github.com/danielandresavilaj-cell/terreno-conectado/blob/8185fd75c143a8d414c179a051e75d1e7b348e32/adr/004-endurecimiento-dependencias.md",
+      "sha256": "34a3cd80cb121863f12cce35e56062646e3b1720d2b1d4ad2301dbfb941ffa5c"
+    }
+  ],
+  "template_repository": "https://github.com/FelipeKraussDOUC/capstone_2026_duoc_alameda",
+  "template_commit": "405c796a024b64776e4181433af4efc6eed075fa"
+}

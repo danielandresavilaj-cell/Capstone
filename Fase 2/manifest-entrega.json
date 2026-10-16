@@ -1,0 +1,360 @@
+{
+  "cutoff": "2026-10-16",
+  "files": [
+    {
+      "path": "Evidencias Grupales/2.4_GuiaEstudiante_Fase 2_DesarrolloProyecto APT (Español).docx",
+      "bytes": 75661,
+      "sha256": "9fd1d60ea3de8bc3576c02ae0989bf7d899f9344ecf37baaf92119e8d9be2d9b"
+    },
+    {
+      "path": "Evidencias Grupales/2.4_GuiaEstudiante_Fase 2_DesarrolloProyecto APT (Inglés).docx",
+      "bytes": 75472,
+      "sha256": "131e6a28f8fd67e4327517f2f910f96f8802cd74164bd8ebed8572b9aabeebef"
+    },
+    {
+      "path": "Evidencias Grupales/2.6_GuiaEstudiante_Fase 2_Informe Final Proyecto APT (Español).docx",
+      "bytes": 77506,
+      "sha256": "8b91af7669b4e50c3e700acf51c8a5cfe9623560ffacda7d65f62b28c366536e"
+    },
+    {
+      "path": "Evidencias Grupales/2.6_GuiaEstudiante_Fase 2_Informe Final Proyecto APT (Inglés).docx",
+      "bytes": 76405,
+      "sha256": "e486890892e9753b18316948790e51f52ddd3ea45d5e1f836efb72b656e63ac1"
+    },
+    {
+      "path": "Evidencias Grupales/Informe_Avance_Proyecto_APT_Fase2.docx",
+      "bytes": 72989,
+      "sha256": "4ce1800cffd154ff2cec9fe014c61b941b2cf5f18e6820f1cd11c09ececd348c"
+    },
+    {
+      "path": "Evidencias Individuales/Daniel_Avila/Avila_Daniel_2.1_APT122_DiarioReflexionFase2.docx",
+      "bytes": 1287076,
+      "sha256": "82e6f43def2c594f39a82b7331dc127ebd82f280afbbd91617523adc81d2626c"
+    },
+    {
+      "path": "Evidencias Individuales/Raul_Gonzalez/Gonzalez_Raul_2.1_APT122_DiarioReflexionFase2.docx",
+      "bytes": 1287086,
+      "sha256": "dee12129d702c34c7a8ee45b733c81ef5eb0c05201e25578a7a984fae37942d9"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/Contribuciones-equipo.md",
+      "bytes": 1965,
+      "sha256": "59cccd61971f1dc5bee265e0bf3e25214c31a3114f4bb9aaab7eae61a2d42657"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/Control-entrega.md",
+      "bytes": 2997,
+      "sha256": "499a6cfc6332bce1bcb8add46183cd80626fc077a734581f861c8c5da868f57e"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/Diagramas/casos-uso.png",
+      "bytes": 133823,
+      "sha256": "010e1e48246369afe623add8799145f5853022449d928f4d9142bf0d320ecfbd"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/Diagramas/casos-uso.svg",
+      "bytes": 4771,
+      "sha256": "442b0fb5d01d507da9e24aaedd131c438dbea50081400d6d53be0b04bcd4e8d3"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/Diagramas/clases.png",
+      "bytes": 78703,
+      "sha256": "8492a7369d94f7d5c3bff4bfe3d8d392518a97fd411ee979cf034cf286ee1838"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/Diagramas/clases.svg",
+      "bytes": 5428,
+      "sha256": "ae59498208a26639f62ccf8bf420daed049eb249906bf0cb1f2716bc316c8302"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/Diagramas/componentes.png",
+      "bytes": 85834,
+      "sha256": "b1a1587ff6f949c8b2ce316e528f26c1e7acf1f712d717c8b1fdba5de9f5ce98"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/Diagramas/componentes.svg",
+      "bytes": 5625,
+      "sha256": "1f94f1d67f10cda968da90ab06c8bf3b01eaa6c7ff78f1aa9c7ace3dd18aa53d"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/Diagramas/modelo-er.png",
+      "bytes": 76576,
+      "sha256": "d168962a6095123211153447fc052d9823562192799e971e3e9e5bffc63415dc"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/Diagramas/modelo-er.svg",
+      "bytes": 6641,
+      "sha256": "249273b9c0335ea53e4f4bdbfbfd13e55c84e2527066bc299316f22e691c3f25"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/Diagramas/secuencia.png",
+      "bytes": 61937,
+      "sha256": "7d3967ec4f185f342d708cc72c39c3e824b7593d135dddde1a9a2411cec88d5a"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/Diagramas/secuencia.svg",
+      "bytes": 3070,
+      "sha256": "8c4f5044e87644559abab939f31728a2a3d9de01dc14f1cb63e6674712cadb7c"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/Informe-publicacion-2026-10-16.md",
+      "bytes": 11726,
+      "sha256": "6cb2b0d2120ec139cfa6ba15bb13e853e334b8c669c8844148b649fc656490f2"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/README.md",
+      "bytes": 654,
+      "sha256": "dddb265d7ba306d5bae4eb12e9c1b55cc188478fe8f47ab78c872777fccbb4c5"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/Referencias/2.5_Pauta_Sumativa_Avance_Fase2.pdf",
+      "bytes": 231224,
+      "sha256": "6a6acf4c6eafcc20da79646fb7a96bf2588a6db291b0df979cc1bb7a46316cfc"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/Resultados-validacion.md",
+      "bytes": 2499,
+      "sha256": "96a39beb4258319a311147975b3f74339e6c96333c795d602cf19c4a4936156e"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/manifest-snapshot.json",
+      "bytes": 7478,
+      "sha256": "2b66aec9ac52fdd0219a21aa5ea5988c0b289461a2e7f75e7a5f45591297057f"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/.github/workflows/demo-health.yml",
+      "bytes": 1185,
+      "sha256": "a08217a2759df36c1f5de3a5e0df9f6bee32740a38c965fc6d28ebf83843ae93"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/.github/workflows/deploy.yml",
+      "bytes": 4498,
+      "sha256": "857c150d074b1fa6df904de76692aac362965c500a16c8b06d81654810e447c6"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/.github/workflows/e2e.yml",
+      "bytes": 3259,
+      "sha256": "d690590e80f325f74d9375eb86adafb08041dae3408bbb030527660d052274d0"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/CONTRIBUTING.md",
+      "bytes": 10210,
+      "sha256": "1a6b797125cbffa4de090222913d1bdf0f72b8666df2c42ff1d936f45ae0f953"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/adr/001-stack-y-multitenant.md",
+      "bytes": 4225,
+      "sha256": "7fea0348a88554b12582812e218a54824819b7a6e3abe9993f2a9920a972eadd"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/adr/002-arquitectura-despliegue.md",
+      "bytes": 7878,
+      "sha256": "f0b8788bf12f4d03672bfc87e6388fe2c957543c037f890072097e431e85ae59"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/adr/003-formularios-dinamicos.md",
+      "bytes": 11970,
+      "sha256": "2bc700a79cfad11ef9106361b1059d8b10160ae30a1476b689463c591c98dc21"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/adr/004-endurecimiento-dependencias.md",
+      "bytes": 6235,
+      "sha256": "34a3cd80cb121863f12cce35e56062646e3b1720d2b1d4ad2301dbfb941ffa5c"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/constitution.md",
+      "bytes": 6459,
+      "sha256": "3cafde6b626cd838ece43aa4cb9dfb5867658e7aa09d24a962dc88223f410100"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/data-model.md",
+      "bytes": 16155,
+      "sha256": "565ad3601d74a50670e80891931402b65e2bac5fb0950976c03d839440da46e2"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/docs/checklist-validacion-manual.md",
+      "bytes": 29595,
+      "sha256": "59660a4ad0a7e17d6a112cb2f613a610792ee6b23980b5357cdb9a6d50077037"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/docs/informe-pruebas-validacion.md",
+      "bytes": 14281,
+      "sha256": "4231a6a3fc7b060db564f091e939c5033f8d9affb47ddb090273dd5bdca637e3"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/infra/Caddyfile",
+      "bytes": 614,
+      "sha256": "323aff0cf5c54a5c8c0ec126aa90dae486702bd30399bee2e50d2bf62828dcd2"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/infra/ORACLE-FREE.md",
+      "bytes": 11440,
+      "sha256": "096422443ffb39b017b39c35422b1ace0defb408405551d915b8dcd59fa04049"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/infra/docker-compose.prod.yml",
+      "bytes": 3757,
+      "sha256": "aceaf2ea81e98f78e0d2b481879a481d1cd07468ae6e3fc061f6f059d0f6633c"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/infra/tools/check-backup.mjs",
+      "bytes": 1381,
+      "sha256": "73143840ef9d60267afb6400d8b78cab4bf0e88870e449dc3f334224c22993f5"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/infra/tools/config.mjs",
+      "bytes": 6993,
+      "sha256": "608ae5fcdad8ce112a578f01a9f31dc3fc5616f446796479233131263f0f13c3"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/infra/tools/ops.mjs",
+      "bytes": 11722,
+      "sha256": "27b84698b1e2012bc456b1026a8a4c781e38466366e5b4aa49ab09c998a34094"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/research.md",
+      "bytes": 7019,
+      "sha256": "cd0bace92fe2647dbfe3ab6c8e666c593d83e121efe19aab9ed21b5efeee46ab"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/specs/000-master/spec.md",
+      "bytes": 26866,
+      "sha256": "394513a8fe06ea66c84ab95b96fca585c4f6288fb1f58f7a71eb55d22c5c9049"
+    },
+    {
+      "path": "Evidencias Proyecto/Documentacion/snapshot-2026-10-16/test-plan.md",
+      "bytes": 25774,
+      "sha256": "4921179097cbdab1f6b874cae1a7193bfc59ef91aa2c1d2c6daf9ccea9d4c654"
+    },
+    {
+      "path": "Evidencias Proyecto/Guion Proyecto.md",
+      "bytes": 3620,
+      "sha256": "39ad2f5f6261d3fc3007e0d0d65e05dadf5b78b4c7f642b4a362f89f4a93987a"
+    },
+    {
+      "path": "Evidencias Proyecto/Presentación Proyecto.pptx",
+      "bytes": 141218,
+      "sha256": "dfaa1ccf8ecae182fdc5798404c58b6e5fa092e34afc0042e69f8f868ea70510"
+    },
+    {
+      "path": "Evidencias Proyecto/Sistema/Aplicacion/README.md",
+      "bytes": 2647,
+      "sha256": "154ff0832c99bc140cb134b77ac5d22c9653623688a721077f8016b98226641d"
+    },
+    {
+      "path": "Evidencias Proyecto/Sistema/Base de datos/Diccionario.md",
+      "bytes": 10020,
+      "sha256": "cfad27fbf6160d72c92d2dc6dc888a8653430fb037fc28066dcee1dd886b0f28"
+    },
+    {
+      "path": "Evidencias Proyecto/Sistema/Base de datos/README.md",
+      "bytes": 1187,
+      "sha256": "8c31b19f785a2601a4d42bac02ad79bc4e2033c91ff8d9a263315676e90c5f1f"
+    },
+    {
+      "path": "Evidencias Proyecto/Sistema/Base de datos/esquema-publicado.sql",
+      "bytes": 45127,
+      "sha256": "c02ff5243b0b39653813f97543ef42f779dd2b82aa28a0e477bde29d3dab56df"
+    },
+    {
+      "path": "Evidencias Proyecto/Sistema/Base de datos/migraciones/1730000000000_init-tenancy.js",
+      "bytes": 3732,
+      "sha256": "87e2d79d083e2e6eb5c9e44b41e0b460de31b6c6163c2d0df2e6e246bb96a1eb"
+    },
+    {
+      "path": "Evidencias Proyecto/Sistema/Base de datos/migraciones/1730000001000_auth.js",
+      "bytes": 3387,
+      "sha256": "e52d8b63d1c76e163fb37b9e6949387ac9b27dcda105d5a080ffc064a57c9aa7"
+    },
+    {
+      "path": "Evidencias Proyecto/Sistema/Base de datos/migraciones/1730000002000_sync.js",
+      "bytes": 7268,
+      "sha256": "cb10e38724218b7f5b45b467904839efe37465c828608be2d579323b2fa4dd04"
+    },
+    {
+      "path": "Evidencias Proyecto/Sistema/Base de datos/migraciones/1730000003000_conflicts.js",
+      "bytes": 2418,
+      "sha256": "826a39e0358b4ebc28264532746504a62b3f4a8bd0effb737396e7eb80598172"
+    },
+    {
+      "path": "Evidencias Proyecto/Sistema/Base de datos/migraciones/1730000004000_templates.js",
+      "bytes": 4580,
+      "sha256": "8cf8a17d0b4a8a3f5906c1e19f11e9929c126c8e20eac6e43f625748453f2fe6"
+    },
+    {
+      "path": "Evidencias Proyecto/Sistema/Base de datos/migraciones/1730000005000_template_catalog.js",
+      "bytes": 4800,
+      "sha256": "aa9c9cd7d2730997246f9c42399231e1b4614d1b7ed5d34100af25731075eb17"
+    },
+    {
+      "path": "Evidencias Proyecto/Sistema/Base de datos/migraciones/1730000006000_response_value_json.js",
+      "bytes": 1876,
+      "sha256": "37f3c1407843adab2bf5e43c250c68f954e98246a0b93f99e4c267caf8336eff"
+    },
+    {
+      "path": "Evidencias Proyecto/Sistema/Base de datos/migraciones/1730000007000_template_imports.js",
+      "bytes": 3860,
+      "sha256": "e64c9bc1d04dcc365bcffc24074a24704a60d1fcd2a6e7f48fe91a6332401e31"
+    },
+    {
+      "path": "Evidencias Proyecto/Sistema/Base de datos/migraciones/1730000008000_template_assignments.js",
+      "bytes": 4052,
+      "sha256": "1cf9907a74720ad1882547c5b319d261909fa86ab4c808e1cc682be6ec1c29af"
+    },
+    {
+      "path": "Evidencias Proyecto/Sistema/Base de datos/migraciones/1730000009000_template_revision_seq.js",
+      "bytes": 3173,
+      "sha256": "72a16eca37f9e4d7e78648eb3936984c821ff73617d86afbbc8f35295b9ed21a"
+    },
+    {
+      "path": "Evidencias Proyecto/Sistema/Base de datos/migraciones/1730000010000_audit_admin.js",
+      "bytes": 1370,
+      "sha256": "54d538a38ec4590f1f06db58c2ab2e25015c55208c80ec3feadb2f4d51d696b6"
+    },
+    {
+      "path": "Evidencias Proyecto/Sistema/Base de datos/migraciones/1730000011000_inspection_location.js",
+      "bytes": 1427,
+      "sha256": "ed9fa1bcabad660f072ed1944d3c65eb5bdf5cf3b5df24055e4faf9a94c14f7e"
+    },
+    {
+      "path": "Evidencias Proyecto (version Agil)/Documento 01- Product Vision.docx",
+      "bytes": 99978,
+      "sha256": "db54914a9802aefae834a1e0c90921405f803c5c3b0cd14e8895cfd8957c24d1"
+    },
+    {
+      "path": "Evidencias Proyecto (version Agil)/Documento 02- Product Backlog.docx",
+      "bytes": 102040,
+      "sha256": "15762a7cf47949a50947d6136b3e779c81d6c6712433e125aa23ffa93075c3ab"
+    },
+    {
+      "path": "Evidencias Proyecto (version Agil)/Documento 04- Definition of Done.docx",
+      "bytes": 104092,
+      "sha256": "9f22694b413f11c9035fb993db15b94d65169c3ae32ddade60ea166a05104269"
+    },
+    {
+      "path": "Evidencias Proyecto (version Agil)/Documento 05 - Documento de Diseño.docx",
+      "bytes": 503541,
+      "sha256": "6c8a1a89c45eab60190af97709bdc1d29f5ac229c39ecd162f7c998b5372e26d"
+    },
+    {
+      "path": "Evidencias Proyecto (version Cascada)/Documento 01 - Documento de Requerimientos Simplificado.docx",
+      "bytes": 114729,
+      "sha256": "1f4be9d26d9cd1059dd263fd2cbedd962a319800efafa198f101b01769cac149"
+    },
+    {
+      "path": "Evidencias Proyecto (version Cascada)/Documento 02 - Documento de Diseño.docx",
+      "bytes": 106918,
+      "sha256": "cf9f2ac9c16f776790aab885a4bdbf565dcc9e564e539ee128ffffd1084bd392"
+    },
+    {
+      "path": "Evidencias Proyecto (version Cascada)/README.md",
+      "bytes": 284,
+      "sha256": "ddf2a0fe59ff68829011be4f63517e0e733f1fd565c6d6a3fe7ebdb62d06c4ff"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3903,
+      "sha256": "49f55ac92accff65c7cb418d9d3b083c5dbb610eb30176cb9cb87d9e586cf1a4"
+    }
+  ]
+}
