@@ -1,6 +1,6 @@
 # Control de la entrega de Fase 2
 
-Corte: 16 de octubre de 2026. Once Word completados y una presentación de once diapositivas, acompañados de guion y evidencias técnicas. Las plantillas de cascada son referencias no aplicables.
+Corte: 16 de octubre de 2026. Once Word completados y una presentación de once diapositivas, acompañados de guion y evidencias técnicas. Se conserva únicamente la versión ágil, acorde con el desarrollo iterativo del proyecto. Las plantillas de cascada se retiraron de la entrega y permanecen recuperables en el historial Git.
 
 La revisión estructural comprueba ausencia de campos de ejemplo, once documentos, seis respuestas por diario, índice del informe contrastado con páginas renderizadas, 18 tablas de dominio y una tabla de migraciones, 12 migraciones y hashes del snapshot. El PPT conserva contenido editable y notas de presentación. La revisión de formato usa renders DOCX/PPTX, no una inspección en Microsoft Word o PowerPoint.
 

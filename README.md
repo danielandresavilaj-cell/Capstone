@@ -131,8 +131,7 @@ Capstone/
     ├── Evidencias Grupales/            → 2.4, 2.6
     ├── Evidencias Individuales/        → 2.1 por integrante
     ├── Evidencias Proyecto (version Agil)/   → Product Vision, Backlog, DoD, Diseño
-    ├── Evidencias Proyecto/ → Presentación, documentación y sistema
-    └── Evidencias Proyecto (version Cascada)/ → Referencias no aplicables
+    └── Evidencias Proyecto/ → Presentación, documentación y sistema
 ```
 
 ### Qué contiene cada evidencia

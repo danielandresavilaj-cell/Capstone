@@ -10,7 +10,8 @@ Demo: https://terreno-conectado-demo.duckdns.org/
 - **Evidencias Individuales:** diario 2.1 identificado por apellido/nombre de cada estudiante.
 - **Evidencias Proyecto (version Agil):** Product Vision, Product Backlog, Definition of Done y Diseño. Se mantiene la numeración del modelo; no existe Documento 03 en la referencia.
 - **Evidencias Proyecto:** Presentación Proyecto.pptx, guion, documentación y Sistema (Aplicacion / Base de datos).
-- **Evidencias Proyecto (version Cascada):** plantillas de referencia, no aplicables a la metodología elegida. No forman parte de la entrega completada.
+
+Se conserva únicamente la versión ágil, acorde con el desarrollo iterativo e incremental, el backlog y los criterios de aceptación utilizados por el equipo.
 
 Las guías 2.6 documentan los resultados alcanzados al corte y sus limitaciones. No certifican finalización de todas las pruebas físicas. Diarios y conclusiones personales requieren lectura y validación de su respectivo integrante antes de la entrega académica.
 

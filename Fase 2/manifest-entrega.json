@@ -43,8 +43,8 @@
     },
     {
       "path": "Evidencias Proyecto/Documentacion/Control-entrega.md",
-      "bytes": 2997,
-      "sha256": "499a6cfc6332bce1bcb8add46183cd80626fc077a734581f861c8c5da868f57e"
+      "bytes": 3132,
+      "sha256": "2146b6b81faaf9fdb199397eb8e37a5f9383783c8da26a2049a3909b5007696a"
     },
     {
       "path": "Evidencias Proyecto/Documentacion/Diagramas/casos-uso.png",
@@ -337,24 +337,9 @@
       "sha256": "6c8a1a89c45eab60190af97709bdc1d29f5ac229c39ecd162f7c998b5372e26d"
     },
     {
-      "path": "Evidencias Proyecto (version Cascada)/Documento 01 - Documento de Requerimientos Simplificado.docx",
-      "bytes": 114729,
-      "sha256": "1f4be9d26d9cd1059dd263fd2cbedd962a319800efafa198f101b01769cac149"
-    },
-    {
-      "path": "Evidencias Proyecto (version Cascada)/Documento 02 - Documento de Diseño.docx",
-      "bytes": 106918,
-      "sha256": "cf9f2ac9c16f776790aab885a4bdbf565dcc9e564e539ee128ffffd1084bd392"
-    },
-    {
-      "path": "Evidencias Proyecto (version Cascada)/README.md",
-      "bytes": 284,
-      "sha256": "ddf2a0fe59ff68829011be4f63517e0e733f1fd565c6d6a3fe7ebdb62d06c4ff"
-    },
-    {
       "path": "README.md",
-      "bytes": 3903,
-      "sha256": "49f55ac92accff65c7cb418d9d3b083c5dbb610eb30176cb9cb87d9e586cf1a4"
+      "bytes": 3911,
+      "sha256": "ceb6204ed5fb6a4e68bffd5b42cd16b66fcaa8ba303236efc1dacdaebc702e9b"
     }
   ]
 }
