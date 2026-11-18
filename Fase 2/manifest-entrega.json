@@ -1,5 +1,7 @@
 {
   "cutoff": "2026-10-16",
+  "actualizado": "2026-11-18",
+  "nota": "Documentos ágiles actualizados al cierre del Sprint 3; el resto conserva el corte.",
   "files": [
     {
       "path": "Evidencias Grupales/2.4_GuiaEstudiante_Fase 2_DesarrolloProyecto APT (Español).docx",
@@ -35,6 +37,36 @@
       "path": "Evidencias Individuales/Raul_Gonzalez/Gonzalez_Raul_2.1_APT122_DiarioReflexionFase2.docx",
       "bytes": 1287086,
       "sha256": "dee12129d702c34c7a8ee45b733c81ef5eb0c05201e25578a7a984fae37942d9"
+    },
+    {
+      "path": "Evidencias Proyecto (version Agil)/Documento 01- Product Vision.docx",
+      "bytes": 100758,
+      "sha256": "a52f3caf7c0791dd08e17efa367baa03a4ae60420d923458676e399bab0ab2a5"
+    },
+    {
+      "path": "Evidencias Proyecto (version Agil)/Documento 02- Product Backlog.docx",
+      "bytes": 104523,
+      "sha256": "4046e8fb6723e1729ad2bd1cf76af14dd5caafd1cc4878017cf515a58eea252c"
+    },
+    {
+      "path": "Evidencias Proyecto (version Agil)/Documento 03 - Sprint Backlog.docx",
+      "bytes": 108291,
+      "sha256": "b22522c2cb497489d1c5284d2246dc65009dc471e6d425b96d3d672c88bb2720"
+    },
+    {
+      "path": "Evidencias Proyecto (version Agil)/Documento 04- Definition of Done.docx",
+      "bytes": 105489,
+      "sha256": "d1b413afd9bf057420941c291faebb85bfd04bb4ea3edafe8bda92474268ab77"
+    },
+    {
+      "path": "Evidencias Proyecto (version Agil)/Documento 05 - Documento de Diseño.docx",
+      "bytes": 503541,
+      "sha256": "6c8a1a89c45eab60190af97709bdc1d29f5ac229c39ecd162f7c998b5372e26d"
+    },
+    {
+      "path": "Evidencias Proyecto (version Agil)/Documento 06 - Retrospectivas.docx",
+      "bytes": 103212,
+      "sha256": "9c035ba90db2b7081484a2c508bf04fd96a6b30a3baed6a6266593f128e38654"
     },
     {
       "path": "Evidencias Proyecto/Documentacion/Contribuciones-equipo.md",
@@ -315,26 +347,6 @@
       "path": "Evidencias Proyecto/Sistema/Base de datos/migraciones/1730000011000_inspection_location.js",
       "bytes": 1427,
       "sha256": "ed9fa1bcabad660f072ed1944d3c65eb5bdf5cf3b5df24055e4faf9a94c14f7e"
-    },
-    {
-      "path": "Evidencias Proyecto (version Agil)/Documento 01- Product Vision.docx",
-      "bytes": 99978,
-      "sha256": "db54914a9802aefae834a1e0c90921405f803c5c3b0cd14e8895cfd8957c24d1"
-    },
-    {
-      "path": "Evidencias Proyecto (version Agil)/Documento 02- Product Backlog.docx",
-      "bytes": 102040,
-      "sha256": "15762a7cf47949a50947d6136b3e779c81d6c6712433e125aa23ffa93075c3ab"
-    },
-    {
-      "path": "Evidencias Proyecto (version Agil)/Documento 04- Definition of Done.docx",
-      "bytes": 104092,
-      "sha256": "9f22694b413f11c9035fb993db15b94d65169c3ae32ddade60ea166a05104269"
-    },
-    {
-      "path": "Evidencias Proyecto (version Agil)/Documento 05 - Documento de Diseño.docx",
-      "bytes": 503541,
-      "sha256": "6c8a1a89c45eab60190af97709bdc1d29f5ac229c39ecd162f7c998b5372e26d"
     },
     {
       "path": "README.md",

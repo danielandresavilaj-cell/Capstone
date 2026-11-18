@@ -2,13 +2,15 @@
 
 Corte: 16 de octubre de 2026. Equipo: Daniel Ávila y Raúl González. Capstone PTY4614, Ingeniería en Informática, sede Alameda. Docente consignado en Fase 1: Carlos Herrera.
 
-Demo: https://terreno-conectado-demo.duckdns.org/
+Producción actual: https://terrenoconectado.cl (la demo de este corte estaba en un subdominio de DuckDNS, retirado el 14-11-2026).
+
+> **Actualización 18-11-2026.** Los documentos ágiles se actualizaron al cierre del Sprint 3: Product Vision, Product Backlog y Definition of Done pasan a la revisión 03, y se agregan el **Documento 03 - Sprint Backlog** y el **Documento 06 - Retrospectivas**. El resto de esta página conserva el corte del 16-10-2026.
 
 ## Entrega organizada según el correo y la pauta
 
 - **Evidencias Grupales:** 2.4 en español e inglés, 2.6 en español e inglés e informe de avance corregido.
 - **Evidencias Individuales:** diario 2.1 identificado por apellido/nombre de cada estudiante.
-- **Evidencias Proyecto (version Agil):** Product Vision, Product Backlog, Definition of Done y Diseño. Se mantiene la numeración del modelo; no existe Documento 03 en la referencia.
+- **Evidencias Proyecto (version Agil):** 01 Product Vision, 02 Product Backlog, 03 Sprint Backlog, 04 Definition of Done, 05 Diseño y 06 Retrospectivas (03 y 06 agregados el 18-11-2026).
 - **Evidencias Proyecto:** Presentación Proyecto.pptx, guion, documentación y Sistema (Aplicacion / Base de datos).
 
 Se conserva únicamente la versión ágil, acorde con el desarrollo iterativo e incremental, el backlog y los criterios de aceptación utilizados por el equipo.
@@ -20,7 +22,7 @@ Las guías 2.6 documentan los resultados alcanzados al corte y sus limitaciones.
 | Criterio | Archivos o evidencia | Qué permite comprobar |
 |---|---|---|
 | 1 Ajustes (10%) | Guía 2.4, informe §6 | Dificultad, corrección y evidencia de resultado. |
-| 2 Metodología (10%) | 2.4, Product Backlog y DoD | SDD iterativo, requisitos y aceptación. |
+| 2 Metodología (10%) | 2.4, Product Vision, Product Backlog, Sprint Backlog, DoD y Retrospectivas | Scrum adaptado con SDD: sprints, requisitos, aceptación y mejora continua. |
 | 3 Evidencias técnicas (25%) | Diseño, Documentacion y Sistema | Documentación, código, pruebas, esquema y demo. |
 | 4 Lenguaje técnico (5%) | Informe y documento de diseño | Offline-first, RLS, outbox e idempotencia definidos con precisión. |
 | 5 Redacción y referencias (5%) | Informe, guías y bibliografía | Idiomas requeridos y enlaces verificables. |

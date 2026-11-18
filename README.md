@@ -31,7 +31,7 @@ Plataforma **SaaS offline-first** de captura de datos operacionales para la indu
 | Backend | **NestJS** (monolito modular) sobre Node.js |
 | Base de datos | **PostgreSQL 16** con Row-Level Security |
 | Identidad | JWT propio (access + refresh), UUIDv7 generado en cliente |
-| Infraestructura | **Docker Compose + Caddy** (TLS automático) en un VPS |
+| Infraestructura | **Docker Compose + Caddy** (TLS automático) en una VM **Oracle Always Free** (US$0/mes) |
 | CI/CD | GitHub Actions |
 | Pruebas | Vitest, Playwright, Testcontainers |
 
@@ -45,7 +45,7 @@ cd terreno-conectado
 npm ci
 ```
 
-Configurar `.env` local desde su plantilla, levantar PostgreSQL, migrar y sembrar según la [guía de aplicación de Fase 2](Fase%202/Evidencias%20Proyecto/Sistema/Aplicacion/README.md). El código usa npm workspaces. La demo ya está publicada: https://terreno-conectado-demo.duckdns.org/
+Configurar `.env` local desde su plantilla, levantar PostgreSQL, migrar y sembrar según la [guía de aplicación de Fase 2](Fase%202/Evidencias%20Proyecto/Sistema/Aplicacion/README.md). El código usa npm workspaces. El producto está publicado en https://terrenoconectado.cl (la app en https://terrenoconectado.cl/app/).
 
 
 | Servicio | URL |
@@ -65,17 +65,32 @@ Detalle completo de la ejecución en el [README de terreno-conectado](https://gi
 
 ## 6. Metodología de trabajo del equipo
 
-**Spec Driven Development (SDD)** sobre ciclos ágiles de aproximadamente dos semanas.
+**Metodología ágil: Scrum adaptado a un equipo de dos personas**, con **Spec Driven Development (SDD)**: cada tarea nace de un requisito (FR/NFR) del spec maestro.
 
 ```
 spec → plan → tasks → código → tests → evidencia
 ```
 
-- Todo artefacto de código nace de un spec; ninguna tarea se ejecuta sin requisito trazable (FR/NFR).
-- Cada ciclo cierra con revisión conjunta del avance y ajuste de las tareas siguientes.
-- Specs en **español**; código, tests, commits y CI en **inglés**.
-- Tablero compartido con Definition of Ready / Definition of Done, límite de WIP y trazabilidad commit → issue.
-- Multi-tenant con aislamiento a nivel de motor y presupuesto objetivo de US$0 dentro de Oracle Always Free.
+- **Sprints de dos semanas**, como se declaró en la Fase 1. Planificación los lunes (del Product Backlog al sprint, con Definition of Ready) y revisión y retrospectiva los viernes.
+- **Tablero** de GitHub Projects ([Sprint Board](https://github.com/users/danielandresavilaj-cell/projects/1)), con un máximo de 2 tarjetas en curso por persona; una tarjeta = una rama = un PR; seguimiento diario y comentario de traspaso en cada tarjeta.
+- **Definition of Done**: CI en verde (lint, tipos, build, pruebas y escaneo de secretos), spec actualizado en el mismo PR y revisión contra el criterio de aceptación.
+- Specs, documentación y commits en **español**.
+
+| Sprint | Fechas (2026) | Objetivo | Resultado |
+| :--- | :--- | :--- | :--- |
+| Sprint 0 | 14 sep – 27 sep | Definir y especificar el producto | Constitución, spec maestro, ADR firmados, plan del primer incremento |
+| Sprint 1 | 28 sep – 11 oct | Recorrido mínimo: captura sin señal → sincronización → Gerencia; formularios desde Excel | 38 PR integrados |
+| Sprint 2 | 12 oct – 18 oct | Exportación, pruebas E2E y de caos, demo publicada y entrega de Fase 2 (16 oct) | 50 PR integrados |
+| Receso | 19 oct – 8 nov | Receso académico y proceso de prácticas | — |
+| Sprint 3 | 9 nov – 19 nov | v1 en producción con cuentas reales, firma, QR y presentación final | 95 PR integrados |
+
+**Artefactos ágiles** ([carpeta](Fase%202/Evidencias%20Proyecto%20%28version%20Agil%29/)):
+[Product Vision](Fase%202/Evidencias%20Proyecto%20%28version%20Agil%29/Documento%2001-%20Product%20Vision.docx) ·
+[Product Backlog](Fase%202/Evidencias%20Proyecto%20%28version%20Agil%29/Documento%2002-%20Product%20Backlog.docx) ·
+[Sprint Backlog](Fase%202/Evidencias%20Proyecto%20%28version%20Agil%29/Documento%2003%20-%20Sprint%20Backlog.docx) ·
+[Definition of Done](Fase%202/Evidencias%20Proyecto%20%28version%20Agil%29/Documento%2004-%20Definition%20of%20Done.docx) ·
+[Documento de Diseño](Fase%202/Evidencias%20Proyecto%20%28version%20Agil%29/Documento%2005%20-%20Documento%20de%20Dise%C3%B1o.docx) ·
+[Retrospectivas](Fase%202/Evidencias%20Proyecto%20%28version%20Agil%29/Documento%2006%20-%20Retrospectivas.docx)
 
 ## 7. Arquitectura de la solución
 
@@ -89,7 +104,7 @@ flowchart LR
     PWA --> DEX
   end
 
-  subgraph VPS["VPS - Docker Compose + Caddy (TLS)"]
+  subgraph VPS["VM Oracle Always Free - Docker Compose + Caddy (TLS)"]
     API["NestJS<br/>POST /api/v1/sync/batch<br/>idempotente + LWW"]
     RLS["SET LOCAL app.tenant_id<br/>Row-Level Security"]
     PG[("PostgreSQL 16<br/>aislamiento por tenant_id")]
@@ -127,10 +142,11 @@ Capstone/
 │   └── Evidencias Individuales/
 │       ├── Daniel_Avila/    → 1.1, 1.2, 1.3
 │       └── Raul_Gonzalez/  → 1.1, 1.2, 1.3
-└── Fase 2/  ← EVIDENCIAS COMPLETADAS AL CORTE 16-10-2026
+└── Fase 2/  ← EVIDENCIAS AL CORTE 16-10-2026 · DOCUMENTOS ÁGILES ACTUALIZADOS AL 18-11-2026
     ├── Evidencias Grupales/            → 2.4, 2.6
     ├── Evidencias Individuales/        → 2.1 por integrante
-    ├── Evidencias Proyecto (version Agil)/   → Product Vision, Backlog, DoD, Diseño
+    ├── Evidencias Proyecto (version Agil)/   → 01 Product Vision, 02 Product Backlog, 03 Sprint Backlog,
+    │                                          04 Definition of Done, 05 Diseño, 06 Retrospectivas
     └── Evidencias Proyecto/ → Presentación, documentación y sistema
 ```
 
