@@ -1,18 +1,35 @@
-# Fase 3 — Terreno Conectado
+# Fase 3 de Terreno Conectado
 
-Entrega de cierre del proyecto APT para Capstone PTY4614. El código y la documentación técnica viven en el [repositorio Terreno Conectado](https://github.com/danielandresavilaj-cell/terreno-conectado); esta carpeta reúne las evidencias de la fase.
+Cierre del Proyecto APT. Presentación final ante la comisión el 19 de noviembre de 2026. Equipo: Daniel Ávila y Raúl González. Capstone PTY4614, Ingeniería en Informática, sede Alameda.
 
-## Evidencias individuales
+Producción: https://terrenoconectado.cl (la app en https://terrenoconectado.cl/app/).
 
-- [Diario de reflexión de Raúl González](Evidencias%20Individuales/Gonzalez_Raul_3.1_APT122_DiarioReflexionFase3.docx)
-- [Diario de reflexión de Daniel Ávila](Evidencias%20Individuales/Avila_Daniel_3.1_APT122_DiarioReflexionFase3.docx)
+## Evidencias
 
-## Evidencia grupal
+- **Evidencias Grupales:** `Presentación Proyecto.pptx`, la presentación final (12 láminas, unos 15 minutos con la demo en vivo y tiempo para preguntas, según la guía 3.3). Cada lámina trae en las notas quién la presenta y qué decir.
+- **Evidencias Individuales:** diario de reflexión 3.1 de cada integrante, en su carpeta (`Daniel_Avila/`, `Raul_Gonzalez/`).
 
-- [Presentación del proyecto](Evidencias%20Grupales/Presentacion%20Proyecto%20Fase%203.pptx)
+## Contenido de la presentación
 
-## Documentación técnica
+Sigue los campos del Informe Final (guía 3.3):
 
-- [Diagramas actualizados](Evidencias%20Proyecto/Documentacion/Diagramas/README.md). Se conserva Fase 2 como corte histórico y se incorpora una revisión acorde con el estado actual del producto.
+1. Relevancia del proyecto.
+2. Objetivos.
+3. Metodología: Scrum adaptado con sprints.
+4. Solución y arquitectura.
+5. Evidencias funcionales con capturas reales de la app.
+6. Demo en vivo.
+7. Validación.
+8. Dificultades y ajustes, incluida la retroalimentación de la Fase 2.
+9. Cierre y próximos pasos.
 
-Las ideas de negocio compartidas fuera de esta carpeta no forman parte de la entrega.
+## Evidencia técnica de respaldo
+
+- Código, especificaciones y pruebas: https://github.com/danielandresavilaj-cell/terreno-conectado
+- Artefactos ágiles (Product Vision, Product Backlog, Sprint Backlog, Definition of Done, Retrospectivas): [Fase 2/Evidencias Proyecto (version Agil)](../Fase%202/Evidencias%20Proyecto%20%28version%20Agil%29/)
+- Resultados de validación al 18-11-2026:
+  - 816 pruebas automatizadas;
+  - 28 E2E y de caos en CI nocturno;
+  - matriz de requisitos en 100 % verde en lo implementado;
+  - Lighthouse móvil 87;
+  - aceptación en iPhone.
