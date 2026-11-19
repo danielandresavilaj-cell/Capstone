@@ -142,12 +142,16 @@ Capstone/
 │   └── Evidencias Individuales/
 │       ├── Daniel_Avila/    → 1.1, 1.2, 1.3
 │       └── Raul_Gonzalez/  → 1.1, 1.2, 1.3
-└── Fase 2/  ← EVIDENCIAS AL CORTE 16-10-2026 · DOCUMENTOS ÁGILES ACTUALIZADOS AL 18-11-2026
-    ├── Evidencias Grupales/            → 2.4, 2.6
-    ├── Evidencias Individuales/        → 2.1 por integrante
-    ├── Evidencias Proyecto (version Agil)/   → 01 Product Vision, 02 Product Backlog, 03 Sprint Backlog,
-    │                                          04 Definition of Done, 05 Diseño, 06 Retrospectivas
-    └── Evidencias Proyecto/ → Presentación, documentación y sistema
+├── Fase 2/  ← EVIDENCIAS AL CORTE 16-10-2026 · DOCUMENTOS ÁGILES ACTUALIZADOS AL 18-11-2026
+│   ├── Evidencias Grupales/            → 2.4, 2.6
+│   ├── Evidencias Individuales/        → 2.1 por integrante
+│   ├── Evidencias Proyecto (version Agil)/   → 01 Product Vision, 02 Product Backlog, 03 Sprint Backlog,
+│   │                                          04 Definition of Done, 05 Diseño, 06 Retrospectivas
+│   └── Evidencias Proyecto/ → Presentación, documentación y sistema
+└── Fase 3/  ← CIERRE DEL PROYECTO APT · PRESENTACIÓN FINAL 19-11-2026
+    ├── Evidencias Grupales/            → Presentación Proyecto.pdf
+    ├── Evidencias Individuales/        → Diario de reflexión 3.1 por integrante
+    └── Evidencias Proyecto/Documentacion/Diagramas/ → 5 diagramas SVG actualizados
 ```
 
 ### Qué contiene cada evidencia
@@ -162,7 +166,7 @@ Capstone/
 | `Informe_Definicion_Proyecto_APT_Fase1` | Informe de fase 1 con abstract, resumen, fundamentación, objetivos, metodología, evidencias, plan de trabajo y Carta Gantt. |
 | `PLANILLA DE EVALUACIÓN FASE 1` | Planilla de evaluación grupal e individual. |
 
-La entrega de Fase 2 completa las guías oficiales y los documentos ágiles e incorpora evidencia de aplicación y base de datos. Consultar el [índice de Fase 2](Fase%202/README.md) para resultados, aportes y pendientes de aceptación. Los diarios y conclusiones son borradores para revisión personal antes de entrega.
+La entrega de Fase 2 completa las guías oficiales y los documentos ágiles e incorpora evidencia de aplicación y base de datos. Consultar el [índice de Fase 2](Fase%202/README.md) para resultados, aportes y pendientes de aceptación. La entrega de Fase 3 cierra el proyecto con la presentación final, el diario de reflexión de cada integrante y los diagramas actualizados. Consultar el [índice de Fase 3](Fase%203/README.md).
 
 ## Enlaces
 
