@@ -6,7 +6,7 @@ Producción: https://terrenoconectado.cl (la app en https://terrenoconectado.cl/
 
 ## Evidencias
 
-- **Evidencias Grupales:** `Presentación Proyecto.pdf`, archivo PDF de la presentación final (12 láminas, unos 15 minutos con la demo en vivo y tiempo para preguntas, según la guía 3.3).
+- **Evidencias Grupales:** `Presentación Proyecto.pdf`, archivo PDF de la presentación final (14 láminas, unos 15 minutos con la demo en vivo y tiempo para preguntas, según la guía 3.3).
 - **Evidencias Individuales:** diario de reflexión 3.1 de cada integrante, en su carpeta (`Daniel_Avila/`, `Raul_Gonzalez/`).
 
 ## Contenido de la presentación
