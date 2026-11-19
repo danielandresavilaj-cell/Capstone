@@ -25,6 +25,7 @@ Sigue los campos del Informe Final (guía 3.3):
 
 ## Evidencia técnica de respaldo
 
+- Diagramas actualizados: [fuentes SVG y descripción](Evidencias%20Proyecto/Documentacion/Diagramas/README.md).
 - Código, especificaciones y pruebas: https://github.com/danielandresavilaj-cell/terreno-conectado
 - Artefactos ágiles (Product Vision, Product Backlog, Sprint Backlog, Definition of Done, Retrospectivas): [Fase 2/Evidencias Proyecto (version Agil)](../Fase%202/Evidencias%20Proyecto%20%28version%20Agil%29/)
 - Resultados de validación al 18-11-2026:
